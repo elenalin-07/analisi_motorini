@@ -1,0 +1,100 @@
+Marca,Modello,Cilindrata (cc),Tipo di motore,Anno,Velocità massima (km/h),Consumo medio,Prezzo (€)
+Kymco,Jet 125,125,4 tempi,2020,95,33.8,2379
+Honda,Vision 50,50,2 tempi,2015,55,38.9,1699
+Yamaha,Aerox 125,125,4 tempi,2018,100,31.5,2840
+Piaggio,Zip 200,200,4 tempi,2021,110,29.8,3100
+Vespa,Primavera 125,125,Elettrico,2023,85,4.2,5200
+Peugeot,Django 50,50,2 tempi,2012,60,41.2,1790
+Suzuki,Address 150,150,4 tempi,2017,100,35.1,2650
+SYM,Jet 200,200,4 tempi,2019,110,30.5,2899
+NIU,NQi 0,Elettrico,Elettrico,2024,75,3.9,4500
+Aprilia,SR 300,300,4 tempi,2020,125,27.2,3850
+Piaggio,Zip 50,50,2 tempi,2014,50,43.5,1650
+Yamaha,Aerox 150,150,4 tempi,2016,105,32.0,2999
+Honda,Vision 125,125,4 tempi,2023,95,36.2,2750
+Kymco,Agility 125,125,4 tempi,2019,90,30.8,2450
+Vespa,Primavera 300,300,4 tempi,2022,120,28.5,4950
+Peugeot,Django 125,125,4 tempi,2013,85,34.9,2599
+Suzuki,Address 50,50,2 tempi,2011,50,39.2,1580
+SYM,Jet 125,125,4 tempi,2015,95,32.5,2350
+NIU,NQi 0,Elettrico,Elettrico,2024,80,3.1,5100
+Aprilia,SR 150,150,4 tempi,2017,105,30.2,2890
+Piaggio,Zip 250,250,4 tempi,2018,115,27.0,3420
+Yamaha,Aerox 50,50,2 tempi,2010,55,42.3,1695
+Honda,Vision 200,200,4 tempi,2021,100,31.1,2950
+Kymco,Agility 150,150,4 tempi,2020,100,33.2,2600
+Vespa,Primavera 150,150,4 tempi,2016,95,30.7,3550
+Peugeot,Django 200,200,4 tempi,2023,105,29.3,3799
+Suzuki,Address 200,200,4 tempi,2015,105,30.4,2750
+SYM,Jet 300,300,4 tempi,2022,125,26.1,3999
+NIU,NQi 0,Elettrico,Elettrico,2024,90,3.4,5250
+Aprilia,SR 125,125,4 tempi,2011,90,34.0,2450
+Piaggio,Zip 150,150,4 tempi,2013,85,33.3,2250
+Yamaha,Aerox 200,200,4 tempi,2019,110,31.0,3190
+Honda,Vision 300,300,4 tempi,2017,120,28.8,3950
+Kymco,Agility 300,300,4 tempi,2022,125,27.7,4050
+Vespa,Primavera 250,250,4 tempi,2020,110,28.1,4550
+Peugeot,Django 300,300,4 tempi,2024,125,25.9,4800
+Suzuki,Address 300,300,4 tempi,2018,120,27.5,3900
+SYM,Jet 50,50,2 tempi,2012,55,41.7,1720
+NIU,NQi 0,Elettrico,Elettrico,2023,75,4.0,4400
+Aprilia,SR 50,50,2 tempi,2014,60,40.1,1850
+Piaggio,Zip 125,125,4 tempi,2021,90,34.7,2490
+Yamaha,Aerox 250,250,4 tempi,2016,115,29.0,3600
+Honda,Vision 150,150,4 tempi,2015,100,32.4,2690
+Kymco,Agility 50,50,2 tempi,2013,55,42.1,1699
+Vespa,Primavera 50,50,2 tempi,2018,60,40.3,2100
+Peugeot,Django 150,150,4 tempi,2020,100,31.6,2950
+Suzuki,Address 125,125,4 tempi,2022,95,33.0,2499
+SYM,Jet 150,150,4 tempi,2023,105,30.9,2890
+NIU,NQi 0,Elettrico,Elettrico,2022,85,3.7,4700
+Aprilia,SR 200,200,4 tempi,2019,110,30.1,3100
+Piaggio,Zip 300,300,4 tempi,2024,125,26.8,4300
+Yamaha,Aerox 300,300,4 tempi,2023,125,27.5,4400
+Honda,Vision 50,50,2 tempi,2014,55,42.2,1600
+Kymco,Agility 200,200,4 tempi,2016,105,29.4,2700
+Vespa,Primavera 200,200,4 tempi,2021,105,30.3,3750
+Peugeot,Django 250,250,4 tempi,2022,115,28.0,4150
+Suzuki,Address 150,150,4 tempi,2023,95,34.1,2699
+SYM,Jet 200,200,4 tempi,2015,100,30.2,2650
+NIU,NQi 0,Elettrico,Elettrico,2023,80,3.6,4950
+Aprilia,SR 250,250,4 tempi,2020,115,29.9,3500
+Piaggio,Zip 200,200,4 tempi,2012,105,32.7,2950
+Yamaha,Aerox 125,125,4 tempi,2013,90,33.6,2550
+Honda,Vision 250,250,4 tempi,2022,110,30.9,3650
+Kymco,Agility 125,125,4 tempi,2017,90,34.5,2390
+Vespa,Primavera 125,125,4 tempi,2019,95,33.8,3290
+Peugeot,Django 100,100,4 tempi,2011,80,35.2,2190
+Suzuki,Address 100,100,4 tempi,2013,85,36.0,2250
+SYM,Jet 100,100,4 tempi,2020,85,34.6,2300
+NIU,NQi 0,Elettrico,Elettrico,2022,70,3.3,4200
+Aprilia,SR 100,100,4 tempi,2016,90,33.5,2400
+Piaggio,Zip 100,100,4 tempi,2018,85,34.2,2190
+Yamaha,Aerox 100,100,4 tempi,2014,90,33.3,2290
+Honda,Vision 100,100,4 tempi,2020,85,35.0,2450
+Kymco,Agility 100,100,4 tempi,2012,85,34.9,2100
+Vespa,Primavera 100,100,4 tempi,2023,90,32.8,2990
+Peugeot,Django 300,300,4 tempi,2024,125,26.5,4700
+Suzuki,Address 250,250,4 tempi,2015,110,29.0,3150
+SYM,Jet 250,250,4 tempi,2021,115,28.6,3350
+NIU,NQi 0,Elettrico,Elettrico,2023,85,3.5,4800
+Aprilia,SR 300,300,4 tempi,2022,125,26.4,4600
+Piaggio,Zip 50,50,2 tempi,2010,50,44.0,1500
+Yamaha,Aerox 150,150,4 tempi,2015,100,33.4,2750
+Honda,Vision 125,125,4 tempi,2018,95,34.7,2600
+Kymco,Agility 150,150,4 tempi,2021,100,31.3,2750
+Vespa,Primavera 300,300,4 tempi,2024,125,27.1,5000
+Peugeot,Django 50,50,2 tempi,2013,55,41.5,1790
+Suzuki,Address 50,50,2 tempi,2011,50,42.8,1650
+SYM,Jet 125,125,4 tempi,2022,95,32.1,2490
+NIU,NQi 0,Elettrico,Elettrico,2022,75,3.8,4550
+Aprilia,SR 150,150,4 tempi,2017,105,31.5,2850
+Piaggio,Zip 250,250,4 tempi,2019,110,30.0,3250
+Yamaha,Aerox 50,50,2 tempi,2010,55,43.1,1700
+Honda,Vision 200,200,4 tempi,2016,105,30.6,2890
+Kymco,Agility 200,200,4 tempi,2018,100,32.8,2800
+Vespa,Primavera 250,250,4 tempi,2020,115,29.2,4500
+Peugeot,Django 200,200,4 tempi,2023,105,30.1,3850
+Suzuki,Address 200,200,4 tempi,2021,110,30.3,2950
+SYM,Jet 300,300,4 tempi,2022,125,27.9,4100
+NIU,NQi 0,Elettrico,Elettrico,2024,90,3.9,5300

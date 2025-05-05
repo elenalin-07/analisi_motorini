@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "analisi motorini", "analisi motorini\analisi motorini.csproj", "{9741CA69-1E1E-49BB-9C7D-813E784D7968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9741CA69-1E1E-49BB-9C7D-813E784D7968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9741CA69-1E1E-49BB-9C7D-813E784D7968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9741CA69-1E1E-49BB-9C7D-813E784D7968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9741CA69-1E1E-49BB-9C7D-813E784D7968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A25D6A7-6BED-48C9-83FC-B901D8E7B8CB}
+	EndGlobalSection
+EndGlobal

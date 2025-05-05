@@ -1,0 +1,14 @@
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\bin\Debug\net8.0\analisi motorini.exe
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\bin\Debug\net8.0\analisi motorini.deps.json
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\bin\Debug\net8.0\analisi motorini.runtimeconfig.json
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\bin\Debug\net8.0\analisi motorini.dll
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\bin\Debug\net8.0\analisi motorini.pdb
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\obj\Debug\net8.0\analisi motorini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\obj\Debug\net8.0\analisi motorini.AssemblyInfoInputs.cache
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\obj\Debug\net8.0\analisi motorini.AssemblyInfo.cs
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\obj\Debug\net8.0\analisi motorini.csproj.CoreCompileInputs.cache
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\obj\Debug\net8.0\analisi motorini.dll
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\obj\Debug\net8.0\refint\analisi motorini.dll
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\obj\Debug\net8.0\analisi motorini.pdb
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\obj\Debug\net8.0\analisi motorini.genruntimeconfig.cache
+C:\Users\lin.elena\Downloads\Numero Cifra\visual studio 2022 c sharp\analisi motorini\analisi motorini\obj\Debug\net8.0\ref\analisi motorini.dll
